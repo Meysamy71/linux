@@ -1,0 +1,4 @@
+[Timer]
+OnCalendar=*:*:00/10
+Unit=internetcheck.service
+
